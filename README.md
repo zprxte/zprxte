@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 สถิติการทำงาน (GitHub Stats)
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ใส่-GITHUB-USERNAME-ของคุณ&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
----
-
 ## 📫 ช่องทางการติดต่อ
 - **contact:** 0946721413 
 - **Email:** zprxte.thanawat@gmail.com
