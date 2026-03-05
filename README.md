@@ -1,40 +1,40 @@
-# Hi there, I'm [Your Name] 👋
+# สวัสดีครับ! ผม [ชื่อของคุณ] 👋
 
-### 🎓 Computer Science Student 
-I am a 3rd-year student pursuing a **Bachelor of Science in Computer Science** at the Faculty of Science and Technology, **Huachiew Chalermprakiet University (HCU)**.
-
----
-
-## 🚀 About Me
-I have a strong interest in **Software Development**, **Embedded Systems**, and **IoT Solutions**. I enjoy turning complex problems into simple, creative, and scalable code.
-
-- 🔭 I’m currently working on a **License Plate Scanning System** for HCU.
-- 🌱 I’m currently learning more about **Full-stack Development** and **Cloud Integration**.
-- ⚡ Fun fact: I love building interactive hardware, like my **IoT Reaction Time Tester** using ESP32.
+### 🎓 นักศึกษาชั้นปีที่ 3 สาขาวิทยาการคอมพิวเตอร์
+**หลักสูตรวิทยาศาสตรบัณฑิต คณะวิทยาศาสตร์และเทคโนโลยี** **มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ (HCU)**
 
 ---
 
-## 🛠 Tech Stack
-### Languages & Tools
+## 🚀 เกี่ยวกับตัวผม
+ผมมีความสนใจเป็นพิเศษในด้าน **Software Development**, **Embedded Systems** และ **IoT Solutions** ชอบเรียนรู้เทคโนโลยีใหม่ๆ และนำมาประยุกต์ใช้ในการแก้ปัญหาจริง
+
+- 🔭 **โปรเจกต์ปัจจุบัน:** กำลังพัฒนาระบบสแกนป้ายทะเบียนรถ (License Plate Scanning System) สำหรับมหาวิทยาลัยหัวเฉียวฯ
+- 🌱 **กำลังศึกษา:** การพัฒนา Full-stack และการเชื่อมต่อระบบกับ Cloud
+- ⚡ **ความสนใจส่วนตัว:** การสร้างอุปกรณ์ Hardware แบบ Interactive เช่น เครื่องวัดความเร็วการตอบสนอง (IoT Reaction Machine) ด้วย ESP32
+
+---
+
+## 🛠 ทักษะทางเทคนิค (Tech Stack)
+### ภาษาและเครื่องมือที่ใช้
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Hardware & IoT
-- **Microcontrollers:** ESP32, Arduino Nano/Uno
-- **Sensors & Modules:** IR Sensors, Ultrasonic, Buzzers, OLED Displays
+### ด้าน Hardware & IoT
+- **Microcontrollers:** ESP32, Arduino Nano, Arduino Uno
+- **Modules:** IR Sensors, Buzzer, LED Displays, Camera Modules
 
 ---
 
-## 📈 GitHub Stats
+## 📊 สถิติการทำงาน (GitHub Stats)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="Your Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ใส่-GITHUB-USERNAME-ของคุณ&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 ---
 
-## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email Address]
-- **University:** [Huachiew Chalermprakiet University](https://www.hcu.ac.th)
+## 📫 ช่องทางการติดต่อ
+- **LinkedIn:** [ลิงก์ LinkedIn ของคุณ]
+- **Email:** [อีเมลของคุณ]
+- **มหาวิทยาลัย:** [มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ](https://www.hcu.ac.th)
