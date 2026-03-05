@@ -26,7 +26,7 @@
 
 ### 🔧 เครื่องมือและซอฟต์แวร์ (Tools & Utilities)
 - **Version Control:** Git & GitHub
-- **Editor:** Visual Studio Code (VS Code)
+- **Editor:** Visual Studio Code (VS Code), Antigravity
 - **System Design:** Visual Paradigm (สำหรับทำ UML และ Database Design)
 - **Hardware Interaction:** Arduino IDE (สำหรับโปรเจกต์ ESP32 และ IoT)
 
