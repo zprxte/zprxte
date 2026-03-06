@@ -31,5 +31,6 @@
 
 ## 📫 ช่องทางการติดต่อ
 - **contact:** 0946721413 
-- **Email:** zprxte.thanawat@gmail.com
+- **Personal Email:** zprxte.thanawat@gmail.com
+- **University Email:** 661517@hcu.ac.th
 - **มหาวิทยาลัย:** [มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ](https://www.hcu.ac.th)
